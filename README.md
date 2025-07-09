@@ -9,3 +9,9 @@
 <h1 align="center">Hi, my name is LondonDerri</h1>
 
 ###
+
+<div align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
+    </a>
+</div>
