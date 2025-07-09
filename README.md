@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-    <a href="discordapp.com/users/1280853816975032402">
+    <a href="https://discord.com/users/1280853816975032402">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
     </a>
 </div>
