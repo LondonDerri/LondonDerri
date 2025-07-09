@@ -45,4 +45,5 @@
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
+    <img width="12" />
 </div>
