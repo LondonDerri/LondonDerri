@@ -36,3 +36,13 @@
 <div align="center">
     <img src="https://img.shields.io/github/followers/LondonDerri?style=flat-square&label=visitors&color=6600FF" />
 </div>
+
+###
+
+<h2 align="left">Languages</h2>
+
+###
+
+<div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
+</div>
