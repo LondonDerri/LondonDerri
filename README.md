@@ -43,7 +43,17 @@
 
 ###
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
-    <img width="12" />
+<div valign="center">
+    <img src="assets/icon/java.svg" height="40" style="margin-left: 10px" />
+</div>
+
+###
+
+<h3 align="left">Statistics</h3>
+
+###
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=londonderri&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1&text_color=CC92FC&icon_color=CC92FC&title_color=CC92FC" height="150" alt="stats graph" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=londonderri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2&title_color=CC92FC&custom_title=Using+Languages" height="150" alt="languages graph" align="right" />
 </div>
